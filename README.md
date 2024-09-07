@@ -52,3 +52,8 @@ stock_price_Prediction-GS/
 └── README.md                           # Project description and instructions
 
 ```
+
+To install the required packages
+   ```bash
+   pip install -r requirements.txt
+   ```
